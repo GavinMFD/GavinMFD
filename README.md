@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Azhar!
+
 **A beginner programmer passionate about learning new technologies.**
 
 **Skills**
