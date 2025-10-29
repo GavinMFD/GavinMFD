@@ -1,5 +1,5 @@
-<div align="center">
 # 💫 About Me:
+<div align="center">
 🔭 Undergraduate student of Information Systems at Tadulako University
 
 
