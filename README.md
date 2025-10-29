@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Azhar!
 
-🎓 I'm an **Information Systems / Informatics Student** passionate about learning technology, coding, and building simple but meaningful projects.  
+🎓 I'm an **Information Systems Student** passionate about learning technology, coding, and building simple but meaningful projects.  
 💡 Currently exploring **Web Development** and **Data Analysis**.  
 🌱 Always curious about how things work — from logic to code.
 
