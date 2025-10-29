@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 🔭 Undergraduate student of Information Systems at Tadulako University
 
@@ -14,5 +15,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GavinMFD&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
